@@ -24,7 +24,7 @@ The project utilizes the following packages for various functionalities:
 
 ## Database System Design
 
-![Database_System_Diagram](https://github.com/SaiRev0/Chit-Chat-Backend/assets/96655163/39082981-4684-4bfa-bf39-a61015738f71)
+![Database_System_Diagram](https://github.com/SaiRev0/Chit-Chat-Backend-Server/assets/96655163/d37c81ca-c27b-4943-b877-1d6c6cba653e)
 
 ## Setup and Run the Project Locally
 
@@ -33,7 +33,7 @@ To set up and run the project on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SaiRev0/Chit-Chat-Backend.git
+   git clone https://github.com/SaiRev0/Chit-Chat-Backend-Server.git
    cd Chit-Chat-Backend
    ```
 
